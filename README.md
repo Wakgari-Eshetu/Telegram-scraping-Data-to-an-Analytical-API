@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Medical Telegram Data Warehouse
 
 ## Description
@@ -23,3 +24,6 @@ The project also includes a **dbt warehouse** for transformations and a **FastAP
 
 
 
+=======
+# Telegram-scraping-Data-to-an-Analytical-API
+>>>>>>> 32deaad2d6b029017a3d08faecd5bedd05d29008
