@@ -21,5 +21,5 @@ The project also includes a **dbt warehouse** for transformations and a **FastAP
 
 ---
 
-## Project Structure
+
 
