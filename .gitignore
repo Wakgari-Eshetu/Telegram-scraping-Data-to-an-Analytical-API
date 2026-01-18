@@ -1,3 +1,4 @@
 data
 .env
 logs 
+telegram_scraper_session.session
